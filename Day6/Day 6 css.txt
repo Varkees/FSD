@@ -1,0 +1,38 @@
+AI Works the Employe simply
+
+table border=1 Don't use the comment
+
+----------------------------------------------------------------------
+
+CSS -Cascading style sheet
+
+1.Three types of css Styling.This place working Cascading.Which one is the last comment it's working.
+    inline---First priority-Step-3
+    internal--Second priority-Step-2
+    External--Third priority -step-1 
+
+Inline 
+    Inside the HTML body or inside the opening tag is called inline css
+internal CSS
+    Inside the head tag and using style tag
+External style sheet
+    link the onother page in the head tag
+    
+2.CSS Syntax
+    h1{color:red}
+Selectors{Property:value}
+
+3.What is Cascading?
+    Sliding or step by excuting
+
+4.types of Selectors?
+    Element Selector[tag name]
+    Class Selector
+    inside Selector
+    Deseendent Selector
+    Group Selector
+5.
+
+
+
+    

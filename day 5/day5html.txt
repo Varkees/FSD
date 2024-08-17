@@ -1,0 +1,11 @@
+1.Div containers
+
+    <div>
+    <p>This is jack varkees</p>
+    </div>
+
+use div tag is best practice
+
+2.Section
+    Div and section have a no have a more differntse
+

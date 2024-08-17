@@ -1,0 +1,64 @@
+how web works?
+        --->Clint & server        
+
+clint is a local web or pc 
+Server is a a cloud 
+
+4 steps to should view a website
+
+1.Every website have a unique IP address (like aadhar number or phone number)
+
+2.DNS --- Domine Name system
+        DNS LIKE A PHONE BOOK .It search the website's IP addresss.Then search the ip adress location in the server
+
+3.File transefer 
+    Webpage directly come to our browser via internet
+
+4.Browser display the webpage or websites
+    Only raw material come from via internet.Browser Compile the webpage
+
+
+we search[www.google.com] in Webbrowser---> Webbrowser contanct dns ---> Dns search the IP address  ---> search the server ---> server give the raw material to the browser[File trancefer] --->Again come from the Browser [browser display the webpage]...
+
+
+1.What is server
+
+2.web hosting--[Hosting like saving]
+        Shared/Dedicated[Medium level hosting]-Yearly charge
+        Cloud hosting-AWS/AZURE[Aws is amazon's service]-Houtly charge
+        Data center [or Data forms]--Renting like house---pic the server--The server has a IP address--The IP adress is our URL IP
+
+3.How browser display the website?
+        HTML--Basic structure,CSS-Style,JS-Intract 
+        After Creating the website next operation is hosting
+        Then hosting has a unic ip address 
+        We will access with the ip adress
+        The IP address[url] give only the code lik HTML,CSS,JS 
+        Browser compaile the code for user to display the webpage
+    How HTML CSS compailing by browser----
+        DOM--Dom is like a tree structure
+        Browser convert tree structured HTML and CSS.Converted HTML CSS are displyed by browser
+    How JS Compailing by browser
+        Browser has a javascript Engine
+        Onl raw code come from the server.Browser compailing by the javascript engine then excute to the Browser
+    
+4.what is Fullstack development?
+        Front End developent
+            User can  intract its called Front end 
+        Back End development
+            Server and data base is called Beck 
+        Who connect the Fontend and back end he called as a API-Application Programing interface
+            API-Creat the request and responce with in the fraction of second(Like Instagram likes)
+            How it work fraction of second
+                    It secret of Hosting server speed.If hosting Srver is speed the API work in fraction of second
+    What is stack 
+            Stack like a cheesh .one to one top
+5.MERN Stack?
+    Mango db    -Data base
+    Express js  -API Creation
+    React js    -For front end
+    Node  js    -We connect the front end and back end with the Node js
+    
+
+
+

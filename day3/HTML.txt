@@ -1,0 +1,62 @@
+1.What is HTML?
+    HTML stans for Hyper Text markup language
+    hYPER Text  ---Navigation with hyper link annd hyper text
+    markup      ---structure and development
+    language    ---
+
+    HTML 
+
+    First Creating webpage structure or layout 
+    Secon one provide a link in the same page ro another page
+    We can't do any other operation expect those
+
+2.What is the difference between markup language and programing language?
+    Programing language--Intract with the computer its called programing language(like javascript).
+    Markup language    --Just designing the layout  or structure .Can't Intract with the conputer(Like HTML)
+
+3.HTML vs HTML5
+    both are 99% same --rest 1 persentage is updated .
+
+4.structure of HTML document 
+    <!DOCTYPE html>--Which kind of document to tell the browser [html 5];
+    <html>
+    <head>
+        ----Title
+        ----link
+        ----Meta tag
+    </head>
+    <body>
+        --display to webpage as a main content
+    </body>
+    <html>
+5.HTML Tags
+HTML tags are not case sensitive
+    Totaly 142 tags  in html document
+    15 to 20 tags are important in the HTML
+
+    TAGS - Text    -paragrap,Header,span
+            iMG    -imag
+            link   -href
+            layout -Header,body,Title  
+
+6.Html don't have a compailer
+    HTML compiling by Browser 
+    
+
+        
+
+
+
+
+
+
+
+
+Header-----logi
+      ---- Menu & nav bar
+
+footer
+Breadcrums
+
+
+

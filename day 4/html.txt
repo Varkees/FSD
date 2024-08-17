@@ -1,0 +1,33 @@
+--Creat a folder
+--open in cmd
+--then code .
+--Then we navigat to the VS code
+
+1.What is index.html ?
+    If we dont creat the HTML tag,Browser display the 404 error .I can't find the first page
+W.S.L.p=Watchin Stydy Learning Practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

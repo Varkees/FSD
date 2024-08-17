@@ -1,0 +1,32 @@
+What is IP address?
+    IP address stands for Internet Protocol
+    IP address Mintained by IANA 
+            IANA Stands for Internet Assigned Number Authority
+    IPv4 address format(Dotted Decimal Notation)
+            123.89.46.72--[Splitted by Four Octet three decimal]
+    It starting with 0.0.0.0 End with 255.255.255.255 
+
+There are four types of IP adress in IPv4 
+    class-A(0-126)  --Big organization more computers can connect
+    class-B(128-191)--Middle level
+    class-C(192-223)--Small office and Home
+    class-D(224-229)--Army and reserech
+    class-E(240-225)--For Future use
+                                  ISP-Internet service Provider
+    1.Class c-(192-223)
+        Splitted twice Public and private IP address
+
+        Private IP  
+            Home router give the Unic ip address it's called Private IP  /Exaple(193.1.1.1)
+
+            Internet give the Public IP address to Router -->Router give the Private IP address to the LAN(Local area Netwoek)
+
+            Router give the IP address by using DHCP[Dynamic Host Configuratiion Protocol]
+
+            DHCP Give the class-c's First Private IP address to the first device -192.168.1.1.
+                                                                                --192.168.1.2-We connect 256 device
+
+
+--Youtube--
+    Every device have a two tipe of IP address
+        IP address & Mac address
